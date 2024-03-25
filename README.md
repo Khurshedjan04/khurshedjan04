@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there, It's Khurshedjan</h1>
-<h3 align="center"> A creative front-end developer from Uzbekistan </h3>
+# <p align="center">Hi there, It's Khurshedjan</p>
+# <p align="center"> A creative front-end developer from Uzbekistan</p>
 ![A creative front-end developer from Uzbekistan ](https://i.postimg.cc/X7M1KgFd/Yellow-and-Black-Super-Weekend-Sale-Banner.png)
 
 I am Khurshed Alimmamadov from Uzbekistan, a junior web-developer. Currently, I'm having front-end development courses, specifically, learning JavaScript, and already have learnt HTML and CSS technologies. One of the main goals of mine is becoming full-stuck developer. 

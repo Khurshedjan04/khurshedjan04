@@ -1,4 +1,4 @@
-### Hi there 👋 ### Hi there 👋, It's Khurshedjan
+### Hi there, It's Khurshedjan
 #### A creative front-end developer from Uzbekistan 
 ![A creative front-end developer from Uzbekistan ](https://i.postimg.cc/X7M1KgFd/Yellow-and-Black-Super-Weekend-Sale-Banner.png)
 

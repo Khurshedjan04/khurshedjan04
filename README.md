@@ -7,7 +7,7 @@ I am Khurshed Alimmamadov from Uzbekistan, a junior web-developer, currently, le
 Skills:  HTML / CSS
 
 - 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: @alimmamadovxurshid04 
+- 📫 How to reach me: alimmamadovxurshed12@gmail.com 
 - ⚡ Fun fact: People like to show their limits even if they're not asked for it. 
 
 

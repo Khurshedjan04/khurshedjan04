@@ -1,4 +1,4 @@
-# <p align="center">Hi there, It's Khurshedjan</p>
+# <p align="center">Hi there, It's Khurshed</p>
 # <p align="center"> A creative front-end developer from Uzbekistan</p>
 ![A creative front-end developer from Uzbekistan ](https://i.postimg.cc/X7M1KgFd/Yellow-and-Black-Super-Weekend-Sale-Banner.png)
 

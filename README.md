@@ -4,11 +4,11 @@
 
 I am Khurshed Alimmamadov from Uzbekistan, a junior web-developer. The main goal is inplementing my and my father's startup idea of "FastFix" as a full-stuck developer. 
 
-Skills:  HTML / CSS / JavaScript / Phyton
+Skills:  HTML / CSS / JavaScript
 
 - 🌱 I’m currently learning React.JS
 - 📫 How to reach me: alimmamadovxurshed12@gmail.com 
-- ⚡ Fun fact: People like to show their limits even if they're not asked for it. 
+- ⚡ Fun fact: People like to show their limits even if they're not asked to do so! 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Khurshedjan04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khurshedjan_12.06/)  

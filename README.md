@@ -2,12 +2,12 @@
 # <p align="center"> A creative front-end developer from Uzbekistan</p>
 ![A creative front-end developer from Uzbekistan ](https://i.postimg.cc/X7M1KgFd/Yellow-and-Black-Super-Weekend-Sale-Banner.png)
 
-I am Khurshed Alimmamadov from Uzbekistan, a junior web-developer. The main goal is inplementing my and my father's startup idea of "FastFix" as a full-stuck developer. 
+I am Khurshed Alimmamadov from Uzbekistan, a junior web-developer. 
 
-Skills:  HTML / CSS / JavaScript
+Skills:  HTML5 / CSS3 / JavaScript / ReactJS / TailwindCSS / Version Control
 
-- 🌱 I’m currently learning React.JS
-- 📫 How to reach me: alimmamadovxurshed12@gmail.com 
+- 🌱 I’m currently learning Next.JS
+- 📫 How to reach me: alimmamadovxurshed04@gmail.com 
 - ⚡ Fun fact: People like to show their limits even if they're not asked to do so! 
 
 

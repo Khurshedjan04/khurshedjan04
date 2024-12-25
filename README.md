@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/khurshedjan_12.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khurshedjan_12.06" height="30" width="40" /></a>
-<a href="https://t.me/@Khurshedjan12_06" target="blank"><img align="center" src="https://img.icons8.com/sf-regular/512/FFFFFF/telegram.png" alt="khurshedjan_12.06" height="40" width="40" /></a>
-<a href="mailto:alimmamadovxurshid04@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="khurshedjan_12.06" height="30" width="30" /></a>
+<a href="https://instagram.com/khurshedjan_12.06" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khurshedjan_12.06" height="30" width="40" /></a>
+<a href="https://t.me/Khurshedjan12_06" target="_blank"><img align="center" src="https://img.icons8.com/sf-regular/512/FFFFFF/telegram.png" alt="khurshedjan_12.06" height="40" width="40" /></a>
+<a href="mailto:alimmamadovxurshid04@gmail.com" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="khurshedjan_12.06" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
